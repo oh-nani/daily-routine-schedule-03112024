@@ -1,0 +1,21 @@
+ol{
+    list-style-type: none;
+}
+
+h4[class="task"]{
+    font-weight: normal;
+}
+
+p[class="note"]{
+    font-size: small;
+}
+
+span[class="notes-text"]{
+    font-weight: bold;
+    color: red;
+    font-size: small;
+}
+
+span[class="notes-text-bullet"]{
+    font-weight: bold;
+}
